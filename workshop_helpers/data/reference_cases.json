@@ -1,0 +1,562 @@
+[
+  {
+    "case_id": "S01",
+    "case_type": "partial_allocation",
+    "requested_by": "Raj (Account Lead, Northwind Health)",
+    "request": "Northwind Health phase 2 needs a senior BigQuery engineer full-time from Jan 11 through end of April. Who can we put forward?",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C03",
+      "C13"
+    ],
+    "must_not_recommend": {
+      "C01": "100% on Northwind Health Claims Data Platform Migration until Jan 29, 2027",
+      "C02": "50% on Meridian Grocers Demand Forecasting until Mar 31, 2027",
+      "C04": "mid-level; request asks for senior",
+      "C11": "mid-level; request asks for senior",
+      "C12": "50% on Lakeshore Mutual Underwriting Risk Model Refresh until Jan 29, 2027",
+      "C20": "100% on Northwind Health Claims Data Platform Migration until Apr 30, 2027",
+      "C21": "mid-level; request asks for senior",
+      "C32": "50% on Meridian Grocers Demand Forecasting until Mar 31, 2027; mid-level; request asks for senior",
+      "C38": "80% on Northwind Health Claims Data Platform Migration until Apr 30, 2027"
+    },
+    "caveats": {
+      "C13": [
+        "PTO Mar 1, 2027 to Mar 5, 2027"
+      ]
+    },
+    "window": {
+      "start": "2027-01-11",
+      "end": "2027-04-30"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S02",
+    "case_type": "certification",
+    "requested_by": "Raj (Account Lead)",
+    "request": "The client contract requires a Google Cloud Professional Data Engineer certified engineer. 4 months starting Jan 18, full-time.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C03",
+      "C13"
+    ],
+    "must_not_recommend": {
+      "C01": "100% on Northwind Health Claims Data Platform Migration until Jan 29, 2027",
+      "C02": "50% on Meridian Grocers Demand Forecasting until Mar 31, 2027; no Google Cloud Professional Data Engineer certification",
+      "C04": "no Google Cloud Professional Data Engineer certification",
+      "C11": "Google Cloud Professional Data Engineer expired Aug 31, 2026",
+      "C12": "50% on Lakeshore Mutual Underwriting Risk Model Refresh until Jan 29, 2027",
+      "C20": "100% on Northwind Health Claims Data Platform Migration until Apr 30, 2027; no Google Cloud Professional Data Engineer certification",
+      "C21": "no Google Cloud Professional Data Engineer certification",
+      "C32": "50% on Meridian Grocers Demand Forecasting until Mar 31, 2027; no Google Cloud Professional Data Engineer certification",
+      "C38": "80% on Northwind Health Claims Data Platform Migration until Apr 30, 2027; no Google Cloud Professional Data Engineer certification",
+      "C39": "50% on Fernhill Internal Accelerators until Jun 30, 2027; no Google Cloud Professional Data Engineer certification",
+      "C44": "no Google Cloud Professional Data Engineer certification"
+    },
+    "caveats": {
+      "C03": [
+        "Google Cloud Professional Data Engineer expires Feb 28, 2027, before the engagement ends"
+      ],
+      "C13": [
+        "PTO Mar 1, 2027 to Mar 5, 2027"
+      ]
+    },
+    "window": {
+      "start": "2027-01-18",
+      "end": "2027-05-14"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S03",
+    "case_type": "open_ended",
+    "requested_by": "Chris (Engagement Manager)",
+    "request": "Can you find me a good data person for Lakeshore?",
+    "expected_behavior": "ask_clarifying",
+    "good_fits": [],
+    "must_not_recommend": {},
+    "caveats": {},
+    "window": null,
+    "allocation_pct": null
+  },
+  {
+    "case_id": "S04",
+    "case_type": "timezone",
+    "requested_by": "Chris (Engagement Manager, East Coast fintech)",
+    "request": "Looking for a React + TypeScript front-end dev for an East Coast client. They must be online 9am-1pm Eastern every day. Starts Dec 7 for 10 weeks, full-time.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C15",
+      "C16"
+    ],
+    "must_not_recommend": {
+      "C14": "based in Hyderabad, India (Asia/Kolkata); request needs 9am-1pm Eastern overlap"
+    },
+    "caveats": {
+      "C15": [
+        "PTO Dec 24, 2026 to Jan 1, 2027"
+      ]
+    },
+    "window": {
+      "start": "2026-12-07",
+      "end": "2027-02-12"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S05",
+    "case_type": "synonym",
+    "requested_by": "Raj (Account Lead)",
+    "request": "Who do we have for a GCP data engineering role? Starts Dec 1, 6 weeks, 50% is fine.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C02",
+      "C04",
+      "C11",
+      "C12",
+      "C13",
+      "C21"
+    ],
+    "must_not_recommend": {
+      "C01": "100% on Northwind Health Claims Data Platform Migration until Jan 29, 2027",
+      "C20": "100% on Northwind Health Claims Data Platform Migration until Apr 30, 2027"
+    },
+    "caveats": {
+      "C02": [
+        "Still 50% on Meridian Grocers Demand Forecasting until Mar 31, 2027"
+      ],
+      "C12": [
+        "Still 50% on Lakeshore Mutual Underwriting Risk Model Refresh until Jan 29, 2027"
+      ],
+      "C21": [
+        "Still 50% on Meridian Grocers Merchandising Dashboards until Dec 11, 2026"
+      ]
+    },
+    "window": {
+      "start": "2026-12-01",
+      "end": "2027-01-08"
+    },
+    "allocation_pct": 50
+  },
+  {
+    "case_id": "S06",
+    "case_type": "open_ended",
+    "requested_by": "Dana (Healthcare Practice Lead, Summit Pharmacy)",
+    "request": "Summit Pharmacy asked if we can add someone to the team. Who do you suggest?",
+    "expected_behavior": "ask_clarifying",
+    "good_fits": [],
+    "must_not_recommend": {},
+    "caveats": {},
+    "window": null,
+    "allocation_pct": null
+  },
+  {
+    "case_id": "S07",
+    "case_type": "synonym",
+    "requested_by": "Chris (Engagement Manager, Crestline Bank)",
+    "request": "Crestline needs a platform engineer who knows K8s and Terraform. Jan 11 start, 12 weeks, full-time.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C23",
+      "C24"
+    ],
+    "must_not_recommend": {
+      "C22": "100% on Crestline Bank Mobile API Modernization until Feb 12, 2027"
+    },
+    "caveats": {
+      "C23": [
+        "PTO Feb 1, 2027 to Feb 5, 2027"
+      ]
+    },
+    "window": {
+      "start": "2027-01-11",
+      "end": "2027-04-02"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S08",
+    "case_type": "backfill",
+    "requested_by": "Raj (Account Lead, Northwind Health)",
+    "request": "Priya rolls off the Northwind claims migration at the end of January. Who could take over her work from Feb 1 until the project ends?",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C03",
+      "C04",
+      "C12",
+      "C13",
+      "C21"
+    ],
+    "must_not_recommend": {
+      "C02": "50% on Meridian Grocers Demand Forecasting until Mar 31, 2027",
+      "C20": "100% on Northwind Health Claims Data Platform Migration until Apr 30, 2027"
+    },
+    "caveats": {
+      "C13": [
+        "PTO Mar 1, 2027 to Mar 5, 2027"
+      ]
+    },
+    "window": {
+      "start": "2027-02-01",
+      "end": "2027-04-30"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S09",
+    "case_type": "no_fit",
+    "requested_by": "Dana (Healthcare Practice Lead)",
+    "request": "I need a FHIR/HL7 interoperability specialist, full-time, starting Dec 1 for 6 months.",
+    "expected_behavior": "no_fit",
+    "good_fits": [],
+    "must_not_recommend": {
+      "C17": "100% on Granite Health Partners FHIR Interoperability until May 28, 2027",
+      "C29": "100% on Granite Health Partners FHIR Interoperability until May 28, 2027"
+    },
+    "caveats": {},
+    "window": {
+      "start": "2026-12-01",
+      "end": "2027-05-31"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S10",
+    "case_type": "open_ended",
+    "requested_by": "Sunil (VP Sales, Crestline Bank)",
+    "request": "Crestline might need a few more people next quarter. Can you line some up?",
+    "expected_behavior": "ask_clarifying",
+    "good_fits": [],
+    "must_not_recommend": {},
+    "caveats": {},
+    "window": null,
+    "allocation_pct": null
+  },
+  {
+    "case_id": "S11",
+    "case_type": "pto",
+    "requested_by": "Chris (Engagement Manager, Crestline Bank)",
+    "request": "Crestline is expanding the fraud project. Need a Kafka engineer full-time Dec 7 through Feb 26.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C19",
+      "C33",
+      "C34",
+      "C50"
+    ],
+    "must_not_recommend": {
+      "C07": "100% on Crestline Bank Real-time Fraud Signals until Apr 30, 2027"
+    },
+    "caveats": {
+      "C33": [
+        "PTO Dec 21, 2026 to Jan 1, 2027"
+      ],
+      "C34": [
+        "PTO Feb 8, 2027 to Feb 12, 2027"
+      ]
+    },
+    "window": {
+      "start": "2026-12-07",
+      "end": "2027-02-26"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S12",
+    "case_type": "level",
+    "requested_by": "Sunil (VP Sales)",
+    "request": "I need a principal architect for a GCP pre-sales push. About 30% of their time for 6 weeks starting Nov 30.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C39"
+    ],
+    "must_not_recommend": {
+      "C38": "80% on Northwind Health Claims Data Platform Migration until Apr 30, 2027"
+    },
+    "caveats": {
+      "C39": [
+        "Still 50% on Fernhill Internal Accelerators until Jun 30, 2027"
+      ]
+    },
+    "window": {
+      "start": "2026-11-30",
+      "end": "2027-01-08"
+    },
+    "allocation_pct": 30
+  },
+  {
+    "case_id": "S13",
+    "case_type": "open_ended",
+    "requested_by": "Sunil (VP Sales)",
+    "request": "Looking for an architect for a new client.",
+    "expected_behavior": "ask_clarifying",
+    "good_fits": [],
+    "must_not_recommend": {},
+    "caveats": {},
+    "window": null,
+    "allocation_pct": null
+  },
+  {
+    "case_id": "S14",
+    "case_type": "relative_dates",
+    "requested_by": "Megan (Delivery Manager)",
+    "request": "Who's free to do Tableau dashboards half time for 4 weeks starting next Monday?",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C40",
+      "C41"
+    ],
+    "must_not_recommend": {
+      "C06": "100% on Harbor Freight Lines Analytics Rebuild until Dec 18, 2026",
+      "C31": "75% on Lakeshore Mutual Azure Synapse Migration until Mar 26, 2027"
+    },
+    "caveats": {
+      "C40": [
+        "PTO Dec 7, 2026 to Dec 9, 2026"
+      ],
+      "C41": [
+        "Still 50% on Fernhill Internal Accelerators until Jun 30, 2027"
+      ]
+    },
+    "window": {
+      "start": "2026-11-23",
+      "end": "2026-12-18"
+    },
+    "allocation_pct": 50
+  },
+  {
+    "case_id": "S15",
+    "case_type": "multi_constraint",
+    "requested_by": "Dana (Healthcare Practice Lead)",
+    "request": "Senior Python/Airflow data engineer, must be on US Central or Eastern time, healthcare experience preferred. 75% from Jan 4 to Mar 12.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C45",
+      "C57"
+    ],
+    "must_not_recommend": {
+      "C01": "100% on Northwind Health Claims Data Platform Migration until Jan 29, 2027",
+      "C18": "mid-level; request asks for senior",
+      "C19": "mid-level; request asks for senior",
+      "C46": "based in Bangalore, India (Asia/Kolkata); request needs US Central or Eastern",
+      "C56": "mid-level; request asks for senior"
+    },
+    "caveats": {
+      "C45": [
+        "PTO Feb 15, 2027 to Feb 19, 2027"
+      ]
+    },
+    "window": {
+      "start": "2027-01-04",
+      "end": "2027-03-12"
+    },
+    "allocation_pct": 75
+  },
+  {
+    "case_id": "S16",
+    "case_type": "certification",
+    "requested_by": "Sunil (VP Sales, Bluepeak Energy)",
+    "request": "Bluepeak is extending. They want an AWS Certified Data Engineer (Associate) Dec 1 to Jan 29, full-time.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C47"
+    ],
+    "must_not_recommend": {
+      "C48": "AWS Certified Data Engineer - Associate expired Jun 30, 2026",
+      "C49": "no AWS Certified Data Engineer - Associate certification"
+    },
+    "caveats": {
+      "C47": [
+        "PTO Dec 28, 2026 to Jan 1, 2027"
+      ]
+    },
+    "window": {
+      "start": "2026-12-01",
+      "end": "2027-01-29"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S17",
+    "case_type": "simple",
+    "requested_by": "Chris (Engagement Manager, Crestline Bank)",
+    "request": "Crestline needs two Spring Boot developers starting Jan 11 for 3 months, full-time.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C50",
+      "C51"
+    ],
+    "must_not_recommend": {
+      "C52": "100% on Crestline Bank Mobile API Modernization until Feb 12, 2027"
+    },
+    "caveats": {
+      "C51": [
+        "PTO Feb 22, 2027 to Feb 26, 2027"
+      ]
+    },
+    "window": {
+      "start": "2027-01-11",
+      "end": "2027-04-09"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S18",
+    "case_type": "open_ended",
+    "requested_by": "Megan (Delivery Manager, Harbor Freight Lines)",
+    "request": "Harbor Freight isn't happy with the pace. Can we get them more help?",
+    "expected_behavior": "ask_clarifying",
+    "good_fits": [],
+    "must_not_recommend": {},
+    "caveats": {},
+    "window": null,
+    "allocation_pct": null
+  },
+  {
+    "case_id": "S19",
+    "case_type": "date_overlap",
+    "requested_by": "Megan (Delivery Manager, Harbor Freight Lines)",
+    "request": "Harbor Freight wants a follow-on: a Snowflake engineer for 6 weeks from Dec 7, full-time.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C46",
+      "C54",
+      "C56"
+    ],
+    "must_not_recommend": {
+      "C05": "100% on Harbor Freight Lines Analytics Rebuild until Dec 18, 2026",
+      "C06": "100% on Harbor Freight Lines Analytics Rebuild until Dec 18, 2026",
+      "C07": "100% on Crestline Bank Real-time Fraud Signals until Apr 30, 2027",
+      "C18": "100% on Harbor Freight Lines Analytics Rebuild until Dec 18, 2026"
+    },
+    "caveats": {
+      "C56": [
+        "PTO Dec 28, 2026 to Dec 31, 2026"
+      ]
+    },
+    "window": {
+      "start": "2026-12-07",
+      "end": "2027-01-15"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S20",
+    "case_type": "notes",
+    "requested_by": "Dana (Healthcare Practice Lead)",
+    "request": "Need a data engineer who can be onsite in Atlanta 3 days a week. Jan 4 for 3 months, full-time.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C13",
+      "C56"
+    ],
+    "must_not_recommend": {
+      "C57": "profile notes: remote only until March 2027, no onsite work"
+    },
+    "caveats": {
+      "C13": [
+        "PTO Mar 1, 2027 to Mar 5, 2027"
+      ]
+    },
+    "window": {
+      "start": "2027-01-04",
+      "end": "2027-04-02"
+    },
+    "allocation_pct": 100
+  },
+  {
+    "case_id": "S21",
+    "case_type": "open_ended",
+    "requested_by": "Raj (Account Lead)",
+    "request": "Can you put together a team for the Bluepeak renewal?",
+    "expected_behavior": "ask_clarifying",
+    "good_fits": [],
+    "must_not_recommend": {},
+    "caveats": {},
+    "window": null,
+    "allocation_pct": null
+  },
+  {
+    "case_id": "S22",
+    "case_type": "partial_allocation",
+    "requested_by": "Megan (Delivery Manager, Orchard Lane)",
+    "request": "Orchard Lane's data science team needs Databricks help at 50% from Dec 7 to Feb 26.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C09",
+      "C10"
+    ],
+    "must_not_recommend": {
+      "C08": "100% on Orchard Lane Retail Customer 360 until Jan 15, 2027"
+    },
+    "caveats": {
+      "C09": [
+        "PTO Dec 22, 2026 to Jan 1, 2027"
+      ],
+      "C10": [
+        "Still 50% on Orchard Lane Retail Customer 360 until Jan 15, 2027"
+      ]
+    },
+    "window": {
+      "start": "2026-12-07",
+      "end": "2027-02-26"
+    },
+    "allocation_pct": 50
+  },
+  {
+    "case_id": "S23",
+    "case_type": "partial_allocation",
+    "requested_by": "Raj (Account Lead)",
+    "request": "Need someone who knows Vertex AI and BigQuery at 50% from Dec 14 to Jan 22 to help with feature pipelines.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C12"
+    ],
+    "must_not_recommend": {
+      "C44": "PTO Dec 14, 2026 to Jan 8, 2027"
+    },
+    "caveats": {
+      "C12": [
+        "Still 50% on Lakeshore Mutual Underwriting Risk Model Refresh until Jan 29, 2027"
+      ]
+    },
+    "window": {
+      "start": "2026-12-14",
+      "end": "2027-01-22"
+    },
+    "allocation_pct": 50
+  },
+  {
+    "case_id": "S24",
+    "case_type": "open_ended",
+    "requested_by": "Megan (Delivery Manager, Meridian Grocers)",
+    "request": "Meridian wants to grow the team next year. Who should we propose?",
+    "expected_behavior": "ask_clarifying",
+    "good_fits": [],
+    "must_not_recommend": {},
+    "caveats": {},
+    "window": null,
+    "allocation_pct": null
+  },
+  {
+    "case_id": "S25",
+    "case_type": "fill_the_list",
+    "requested_by": "Megan (Delivery Manager, Meridian Grocers)",
+    "request": "Meridian needs two Looker developers full-time from Jan 4 for 8 weeks.",
+    "expected_behavior": "shortlist",
+    "good_fits": [
+      "C21"
+    ],
+    "must_not_recommend": {
+      "C31": "75% on Lakeshore Mutual Azure Synapse Migration until Mar 26, 2027",
+      "C32": "50% on Meridian Grocers Demand Forecasting until Mar 31, 2027"
+    },
+    "caveats": {},
+    "window": {
+      "start": "2027-01-04",
+      "end": "2027-02-26"
+    },
+    "allocation_pct": 100
+  }
+]

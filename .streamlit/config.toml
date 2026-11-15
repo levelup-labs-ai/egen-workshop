@@ -1,0 +1,13 @@
+# Matches the workshop slides (workshop/shared/slide-template/theme.css).
+[theme]
+base = "light"
+primaryColor = "#466b5d"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f6f7"
+textColor = "#111821"
+linkColor = "#416784"
+borderColor = "#dce2e7"
+font = "Arial, Helvetica, sans-serif"
+headingFont = "Georgia, 'Times New Roman', serif"
+headingFontWeights = 400
+codeFont = "Consolas, Menlo, monospace"

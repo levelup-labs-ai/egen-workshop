@@ -1,0 +1,1744 @@
+{
+  "today": "2026-11-16",
+  "consultants": [
+    {
+      "id": "C01",
+      "name": "Priya Raman",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "BigQuery",
+        "Dataflow",
+        "Airflow",
+        "Python",
+        "SQL"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "summary": "Led the claims ingestion pipelines for Northwind Health's BigQuery migration.",
+      "certifications": [
+        {
+          "name": "Google Cloud Professional Data Engineer",
+          "expires": "2027-09-30"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "C02",
+      "name": "Arjun Mehta",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Dallas, TX",
+      "timezone": "America/Chicago",
+      "skills": [
+        "BigQuery",
+        "Dataflow",
+        "Pub/Sub",
+        "Python"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Builds streaming and batch pipelines on Google Cloud for retail clients.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C03",
+      "name": "Hannah Kim",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "BigQuery",
+        "Dataflow",
+        "Cloud Composer",
+        "Python",
+        "SQL"
+      ],
+      "industries": [
+        "retail",
+        "healthcare"
+      ],
+      "summary": "Data engineer focused on warehouse design and orchestration on Google Cloud.",
+      "certifications": [
+        {
+          "name": "Google Cloud Professional Data Engineer",
+          "expires": "2027-02-28"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "C04",
+      "name": "Wei Zhang",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "BigQuery",
+        "Dataflow",
+        "Pub/Sub",
+        "Python"
+      ],
+      "industries": [
+        "logistics"
+      ],
+      "summary": "Two years on GCP data pipelines; strong on Dataflow streaming jobs.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C05",
+      "name": "Marcus Bell",
+      "title": "Analytics Engineer",
+      "level": "senior",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Snowflake",
+        "dbt",
+        "SQL",
+        "Airflow"
+      ],
+      "industries": [
+        "logistics",
+        "retail"
+      ],
+      "summary": "Owns dbt modeling standards on the Harbor Freight Lines analytics rebuild.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C06",
+      "name": "Sofia Alvarez",
+      "title": "Analytics Engineer",
+      "level": "mid",
+      "location": "Austin, TX",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Snowflake",
+        "dbt",
+        "SQL",
+        "Tableau"
+      ],
+      "industries": [
+        "logistics"
+      ],
+      "summary": "Analytics engineer building dbt models and Tableau extracts.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C07",
+      "name": "Daniel Okafor",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "New York, NY",
+      "timezone": "America/New_York",
+      "skills": [
+        "Kafka",
+        "Snowflake",
+        "dbt",
+        "Java",
+        "Python"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Streaming data engineer on Crestline Bank's fraud signals platform.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C08",
+      "name": "Neha Gupta",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Hyderabad, India",
+      "timezone": "Asia/Kolkata",
+      "skills": [
+        "Databricks",
+        "PySpark",
+        "Delta Lake",
+        "SQL"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Builds Delta Lake pipelines for Orchard Lane's Customer 360.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C09",
+      "name": "Tom Brennan",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Denver, CO",
+      "timezone": "America/Denver",
+      "skills": [
+        "Spark",
+        "Databricks",
+        "AWS",
+        "Python",
+        "SQL"
+      ],
+      "industries": [
+        "energy",
+        "retail"
+      ],
+      "summary": "Spark and Databricks engineer; previously led a retail clickstream platform.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C10",
+      "name": "Lucia Romero",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "PySpark",
+        "Databricks",
+        "SQL"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "PySpark developer on the Orchard Lane Customer 360 team.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C11",
+      "name": "Omar Haddad",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "BigQuery",
+        "Dataproc",
+        "Spark",
+        "Python"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Moved Hadoop workloads to Dataproc and BigQuery for a regional bank.",
+      "certifications": [
+        {
+          "name": "Google Cloud Professional Data Engineer",
+          "expires": "2026-08-31"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "C12",
+      "name": "Grace Liu",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "San Francisco, CA",
+      "timezone": "America/Los_Angeles",
+      "skills": [
+        "BigQuery",
+        "Dataflow",
+        "Vertex AI",
+        "Python"
+      ],
+      "industries": [
+        "insurance"
+      ],
+      "summary": "GCP data engineer supporting model feature pipelines at Lakeshore Mutual.",
+      "certifications": [
+        {
+          "name": "Google Cloud Professional Data Engineer",
+          "expires": "2028-04-30"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "C13",
+      "name": "Kevin Park",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Atlanta, GA",
+      "timezone": "America/New_York",
+      "skills": [
+        "BigQuery",
+        "Dataflow",
+        "Terraform",
+        "Python",
+        "SQL"
+      ],
+      "industries": [
+        "healthcare",
+        "insurance"
+      ],
+      "summary": "Platform-minded data engineer; automates BigQuery environments with Terraform.",
+      "certifications": [
+        {
+          "name": "Google Cloud Professional Data Engineer",
+          "expires": "2027-11-15"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "C14",
+      "name": "Ananya Rao",
+      "title": "Frontend Engineer",
+      "level": "senior",
+      "location": "Hyderabad, India",
+      "timezone": "Asia/Kolkata",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Node.js"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Frontend lead for retail storefront rebuilds.",
+      "certifications": [],
+      "notes": "Works IST hours; can join US calls until 9:30am Eastern."
+    },
+    {
+      "id": "C15",
+      "name": "Jordan Ellis",
+      "title": "Frontend Engineer",
+      "level": "mid",
+      "location": "Atlanta, GA",
+      "timezone": "America/New_York",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Next.js"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Builds React dashboards and internal tools.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C16",
+      "name": "Mei Tanaka",
+      "title": "Senior Frontend Engineer",
+      "level": "senior",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "ReactJS",
+        "TypeScript",
+        "GraphQL"
+      ],
+      "industries": [
+        "healthcare",
+        "retail"
+      ],
+      "summary": "Senior UI engineer; built patient-facing portals in ReactJS.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C17",
+      "name": "Samuel Adeyemi",
+      "title": "Healthcare Data Engineer",
+      "level": "senior",
+      "location": "Philadelphia, PA",
+      "timezone": "America/New_York",
+      "skills": [
+        "FHIR",
+        "HL7",
+        "Python",
+        "SQL"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "summary": "Interoperability specialist; FHIR APIs and HL7 feeds for payer clients.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C18",
+      "name": "Rachel Stein",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "Snowflake"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "summary": "Built claims and eligibility pipelines for two health plans.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C19",
+      "name": "Diego Morales",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Miami, FL",
+      "timezone": "America/New_York",
+      "skills": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "Kafka"
+      ],
+      "industries": [
+        "retail",
+        "financial services"
+      ],
+      "summary": "Generalist data engineer; batch and streaming ingestion.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C20",
+      "name": "Brian Foster",
+      "title": "Senior Cloud Data Engineer",
+      "level": "senior",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "GCP",
+        "BigQuery",
+        "Dataflow",
+        "Terraform"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "summary": "GCP data engineer on the Northwind Health claims migration.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C21",
+      "name": "Fatima Noor",
+      "title": "Analytics Engineer",
+      "level": "mid",
+      "location": "Columbus, OH",
+      "timezone": "America/New_York",
+      "skills": [
+        "BigQuery",
+        "Looker",
+        "LookML",
+        "SQL",
+        "Dataflow"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Builds BigQuery models and Looker dashboards for merchandising teams.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C22",
+      "name": "Nikhil Verma",
+      "title": "Platform Engineer",
+      "level": "senior",
+      "location": "Dallas, TX",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "Docker",
+        "CI/CD"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Runs the Kubernetes platform for Crestline Bank's API modernization.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C23",
+      "name": "Emma Walsh",
+      "title": "Platform Engineer",
+      "level": "senior",
+      "location": "Boston, MA",
+      "timezone": "America/New_York",
+      "skills": [
+        "Kubernetes",
+        "GKE",
+        "Terraform",
+        "Helm"
+      ],
+      "industries": [
+        "financial services",
+        "insurance"
+      ],
+      "summary": "Kubernetes and GKE platform engineer; landing zones and cluster security.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C24",
+      "name": "Carlos Mendes",
+      "title": "Cloud Engineer",
+      "level": "mid",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "GKE",
+        "Terraform",
+        "Cloud Run",
+        "Docker"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Cloud engineer running GKE workloads and Terraform pipelines.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C25",
+      "name": "Aisha Khan",
+      "title": "AI Engineer",
+      "level": "senior",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "LLM",
+        "RAG",
+        "Python",
+        "Vertex AI"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "summary": "Lead AI engineer on Summit Pharmacy's patient support assistant.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C26",
+      "name": "Ben Carter",
+      "title": "AI Engineer",
+      "level": "mid",
+      "location": "Seattle, WA",
+      "timezone": "America/Los_Angeles",
+      "skills": [
+        "LLM",
+        "RAG",
+        "LangChain",
+        "Vertex AI",
+        "Python"
+      ],
+      "industries": [
+        "retail",
+        "healthcare"
+      ],
+      "summary": "Built a retrieval-based support assistant for a pharmacy benefits client.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C27",
+      "name": "Ishaan Kapoor",
+      "title": "ML Engineer",
+      "level": "mid",
+      "location": "Bangalore, India",
+      "timezone": "Asia/Kolkata",
+      "skills": [
+        "Machine Learning",
+        "LLM",
+        "Python",
+        "scikit-learn"
+      ],
+      "industries": [
+        "insurance"
+      ],
+      "summary": "ML engineer on Lakeshore Mutual's underwriting risk models.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C28",
+      "name": "Olivia Grant",
+      "title": "AI Consultant",
+      "level": "senior",
+      "location": "New York, NY",
+      "timezone": "America/New_York",
+      "skills": [
+        "Generative AI",
+        "Python",
+        "Prompt Engineering"
+      ],
+      "industries": [
+        "insurance"
+      ],
+      "summary": "Advises clients on generative AI use cases and prototypes.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C29",
+      "name": "Lena Fischer",
+      "title": "Integration Engineer",
+      "level": "senior",
+      "location": "Pittsburgh, PA",
+      "timezone": "America/New_York",
+      "skills": [
+        "FHIR",
+        "HL7",
+        "Java",
+        "Mirth Connect"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "summary": "Builds HL7 and FHIR integrations between EHRs and payer systems.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C30",
+      "name": "Victor Huang",
+      "title": "Backend Engineer",
+      "level": "senior",
+      "location": "Dallas, TX",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Go",
+        "Java",
+        "Kubernetes",
+        "gRPC"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Backend engineer writing Go services for banking APIs.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C31",
+      "name": "Paul Novak",
+      "title": "BI Developer",
+      "level": "senior",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Looker",
+        "Tableau",
+        "SQL"
+      ],
+      "industries": [
+        "insurance",
+        "retail"
+      ],
+      "summary": "BI developer; Looker and Tableau dashboard migrations.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C32",
+      "name": "Sarah Lopez",
+      "title": "BI Developer",
+      "level": "mid",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Looker",
+        "LookML",
+        "BigQuery",
+        "SQL"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "LookML developer on Meridian Grocers' forecasting dashboards.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C33",
+      "name": "Mateo Rossi",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Toronto, Canada",
+      "timezone": "America/New_York",
+      "skills": [
+        "Kafka",
+        "Java",
+        "Flink",
+        "Python"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Streaming engineer; Kafka and Flink for payments monitoring.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C34",
+      "name": "Chloe Martin",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Kafka",
+        "Python",
+        "AWS",
+        "Spark"
+      ],
+      "industries": [
+        "energy"
+      ],
+      "summary": "Built the event ingestion layer for Bluepeak Energy's data lake.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C35",
+      "name": "Ahmed Siddiqui",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Detroit, MI",
+      "timezone": "America/New_York",
+      "skills": [
+        "Azure",
+        "Data Factory",
+        "Synapse",
+        "SQL"
+      ],
+      "industries": [
+        "insurance"
+      ],
+      "summary": "Leads data pipelines on Lakeshore Mutual's Azure Synapse migration.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C36",
+      "name": "Julia Brandt",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Minneapolis, MN",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Azure",
+        "ADF",
+        "Synapse",
+        "Python"
+      ],
+      "industries": [
+        "insurance",
+        "energy"
+      ],
+      "summary": "Azure data engineer; ADF pipelines into Synapse and Fabric.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C37",
+      "name": "Kwame Asante",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Houston, TX",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Azure",
+        "Data Factory",
+        "SQL",
+        "AWS"
+      ],
+      "industries": [
+        "energy"
+      ],
+      "summary": "Data engineer working across Azure and AWS ingestion.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C38",
+      "name": "Laura Chen",
+      "title": "Principal Architect",
+      "level": "principal",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Solution Architecture",
+        "GCP",
+        "BigQuery",
+        "Pre-sales"
+      ],
+      "industries": [
+        "healthcare",
+        "retail"
+      ],
+      "summary": "Principal architect; owns technical delivery on Northwind Health.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C39",
+      "name": "David Mensah",
+      "title": "Principal Architect",
+      "level": "principal",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Solution Architecture",
+        "GCP",
+        "AWS",
+        "Pre-sales"
+      ],
+      "industries": [
+        "financial services",
+        "energy"
+      ],
+      "summary": "Principal architect; runs discovery and pre-sales for cloud data programs.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C40",
+      "name": "Hailey Brooks",
+      "title": "BI Developer",
+      "level": "mid",
+      "location": "Indianapolis, IN",
+      "timezone": "America/New_York",
+      "skills": [
+        "Tableau",
+        "Power BI",
+        "SQL"
+      ],
+      "industries": [
+        "retail",
+        "healthcare"
+      ],
+      "summary": "BI developer building Tableau and Power BI dashboards.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C41",
+      "name": "Sanjay Iyer",
+      "title": "BI Developer",
+      "level": "mid",
+      "location": "Hyderabad, India",
+      "timezone": "Asia/Kolkata",
+      "skills": [
+        "Tableau",
+        "SQL",
+        "Python"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Tableau developer; also maintains Fernhill's internal delivery dashboards.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C42",
+      "name": "Tyler Reed",
+      "title": "BI Developer",
+      "level": "mid",
+      "location": "Detroit, MI",
+      "timezone": "America/New_York",
+      "skills": [
+        "Power BI",
+        "DAX",
+        "SQL",
+        "Azure"
+      ],
+      "industries": [
+        "insurance"
+      ],
+      "summary": "Power BI developer on Lakeshore Mutual's reporting migration.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C43",
+      "name": "Elena Petrova",
+      "title": "Senior ML Engineer",
+      "level": "senior",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Machine Learning",
+        "Forecasting",
+        "Vertex AI",
+        "Python"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Leads demand forecasting models for Meridian Grocers on Vertex AI.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C44",
+      "name": "Rohan Desai",
+      "title": "ML Engineer",
+      "level": "senior",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Machine Learning",
+        "Forecasting",
+        "Vertex AI",
+        "Python",
+        "BigQuery"
+      ],
+      "industries": [
+        "retail",
+        "logistics"
+      ],
+      "summary": "Forecasting specialist; built inventory demand models for two grocers.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C45",
+      "name": "Noah Williams",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Dallas, TX",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Python",
+        "Airflow",
+        "SQL",
+        "AWS"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Senior data engineer; Airflow orchestration and AWS ingestion.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C46",
+      "name": "Priyanka Shah",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Bangalore, India",
+      "timezone": "Asia/Kolkata",
+      "skills": [
+        "Python",
+        "Airflow",
+        "SQL",
+        "Snowflake"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "summary": "Built claims data marts and Airflow pipelines for a US health plan.",
+      "certifications": [],
+      "notes": "Works IST hours; overlap with US Central only until 9am Central."
+    },
+    {
+      "id": "C47",
+      "name": "Jake Thompson",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Denver, CO",
+      "timezone": "America/Denver",
+      "skills": [
+        "AWS",
+        "Glue",
+        "Redshift",
+        "Python"
+      ],
+      "industries": [
+        "energy"
+      ],
+      "summary": "AWS data engineer on Bluepeak Energy's data lake.",
+      "certifications": [
+        {
+          "name": "AWS Certified Data Engineer - Associate",
+          "expires": "2028-01-31"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "C48",
+      "name": "Monica Reyes",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Phoenix, AZ",
+      "timezone": "America/Phoenix",
+      "skills": [
+        "AWS",
+        "Glue",
+        "Athena",
+        "Python"
+      ],
+      "industries": [
+        "energy",
+        "logistics"
+      ],
+      "summary": "AWS Glue and Athena pipelines for logistics reporting.",
+      "certifications": [
+        {
+          "name": "AWS Certified Data Engineer - Associate",
+          "expires": "2026-06-30"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "C49",
+      "name": "Hiro Sato",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Seattle, WA",
+      "timezone": "America/Los_Angeles",
+      "skills": [
+        "AWS",
+        "Glue",
+        "Redshift",
+        "SQL"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "AWS data engineer; Redshift tuning and Glue jobs.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C50",
+      "name": "Alicia Gomez",
+      "title": "Backend Engineer",
+      "level": "senior",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Kafka"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Java and Spring Boot engineer for payments APIs.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C51",
+      "name": "Sameer Patel",
+      "title": "Backend Engineer",
+      "level": "mid",
+      "location": "Hyderabad, India",
+      "timezone": "Asia/Kolkata",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "summary": "Builds Spring Boot microservices for order management.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C52",
+      "name": "Ethan Moore",
+      "title": "Backend Engineer",
+      "level": "senior",
+      "location": "Dallas, TX",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kubernetes"
+      ],
+      "industries": [
+        "financial services"
+      ],
+      "summary": "Backend lead on Crestline Bank's mobile API modernization.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C53",
+      "name": "Zoe Adams",
+      "title": "Backend Engineer",
+      "level": "mid",
+      "location": "Columbus, OH",
+      "timezone": "America/New_York",
+      "skills": [
+        "Java",
+        "Spring",
+        "Kubernetes",
+        "AWS"
+      ],
+      "industries": [
+        "logistics"
+      ],
+      "summary": "Java developer on logistics tracking services.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C54",
+      "name": "Irene Costa",
+      "title": "Analytics Engineer",
+      "level": "senior",
+      "location": "Naperville, IL",
+      "timezone": "America/Chicago",
+      "skills": [
+        "Snowflake",
+        "dbt",
+        "SQL",
+        "Python"
+      ],
+      "industries": [
+        "retail",
+        "logistics"
+      ],
+      "summary": "Analytics engineer; Snowflake cost tuning and dbt project setup.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C55",
+      "name": "Nora Lindqvist",
+      "title": "MLOps Engineer",
+      "level": "senior",
+      "location": "Minneapolis, MN",
+      "timezone": "America/Chicago",
+      "skills": [
+        "MLOps",
+        "Vertex AI",
+        "Kubernetes",
+        "Python"
+      ],
+      "industries": [
+        "retail",
+        "insurance"
+      ],
+      "summary": "MLOps engineer; model deployment and monitoring on Vertex AI.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C56",
+      "name": "Derek Simmons",
+      "title": "Data Engineer",
+      "level": "mid",
+      "location": "Atlanta, GA",
+      "timezone": "America/New_York",
+      "skills": [
+        "Python",
+        "SQL",
+        "Snowflake",
+        "Airflow"
+      ],
+      "industries": [
+        "logistics"
+      ],
+      "summary": "Data engineer on warehouse loads and Airflow DAGs.",
+      "certifications": [],
+      "notes": ""
+    },
+    {
+      "id": "C57",
+      "name": "Tanya Ivanova",
+      "title": "Senior Data Engineer",
+      "level": "senior",
+      "location": "Atlanta, GA",
+      "timezone": "America/New_York",
+      "skills": [
+        "Python",
+        "SQL",
+        "Spark",
+        "Airflow"
+      ],
+      "industries": [
+        "healthcare",
+        "retail"
+      ],
+      "summary": "Senior data engineer; Spark batch jobs and data quality checks.",
+      "certifications": [],
+      "notes": "Remote only until March 2027 (personal). No onsite work before then."
+    }
+  ],
+  "projects": [
+    {
+      "id": "P01",
+      "name": "Claims Data Platform Migration",
+      "client": "Northwind Health",
+      "industry": "healthcare",
+      "start": "2026-06-01",
+      "end": "2027-04-30",
+      "skills": [
+        "BigQuery",
+        "Dataflow",
+        "Airflow",
+        "Python"
+      ],
+      "summary": "Move claims and eligibility data from an on-prem warehouse to BigQuery."
+    },
+    {
+      "id": "P02",
+      "name": "Underwriting Risk Model Refresh",
+      "client": "Lakeshore Mutual",
+      "industry": "insurance",
+      "start": "2026-09-14",
+      "end": "2027-01-29",
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "BigQuery"
+      ],
+      "summary": "Retrain and document underwriting risk models."
+    },
+    {
+      "id": "P03",
+      "name": "Demand Forecasting",
+      "client": "Meridian Grocers",
+      "industry": "retail",
+      "start": "2026-08-03",
+      "end": "2027-03-31",
+      "skills": [
+        "Forecasting",
+        "Vertex AI",
+        "BigQuery",
+        "Looker"
+      ],
+      "summary": "Store-level demand forecasts on Vertex AI with Looker reporting."
+    },
+    {
+      "id": "P04",
+      "name": "Real-time Fraud Signals",
+      "client": "Crestline Bank",
+      "industry": "financial services",
+      "start": "2026-10-05",
+      "end": "2027-04-30",
+      "skills": [
+        "Kafka",
+        "Java",
+        "Snowflake"
+      ],
+      "summary": "Stream card transactions through Kafka to score fraud signals."
+    },
+    {
+      "id": "P05",
+      "name": "Analytics Rebuild",
+      "client": "Harbor Freight Lines",
+      "industry": "logistics",
+      "start": "2026-07-06",
+      "end": "2026-12-18",
+      "skills": [
+        "Snowflake",
+        "dbt",
+        "Airflow"
+      ],
+      "summary": "Rebuild shipment analytics on Snowflake and dbt."
+    },
+    {
+      "id": "P06",
+      "name": "Patient Support Assistant",
+      "client": "Summit Pharmacy",
+      "industry": "healthcare",
+      "start": "2026-10-19",
+      "end": "2027-03-12",
+      "skills": [
+        "LLM",
+        "RAG",
+        "Python"
+      ],
+      "summary": "GenAI assistant that answers patient questions about prescriptions."
+    },
+    {
+      "id": "P07",
+      "name": "Customer 360",
+      "client": "Orchard Lane Retail",
+      "industry": "retail",
+      "start": "2026-05-04",
+      "end": "2027-01-15",
+      "skills": [
+        "Databricks",
+        "PySpark",
+        "Delta Lake"
+      ],
+      "summary": "Unified customer profile on Databricks."
+    },
+    {
+      "id": "P08",
+      "name": "Data Lake Modernization",
+      "client": "Bluepeak Energy",
+      "industry": "energy",
+      "start": "2026-03-02",
+      "end": "2026-11-27",
+      "skills": [
+        "AWS",
+        "Glue",
+        "Kafka",
+        "Azure"
+      ],
+      "summary": "Consolidate meter and asset data into an AWS data lake."
+    },
+    {
+      "id": "P09",
+      "name": "Internal Accelerators",
+      "client": "Fernhill",
+      "industry": "internal",
+      "start": "2026-01-05",
+      "end": "2027-06-30",
+      "skills": [
+        "Solution Architecture",
+        "Tableau"
+      ],
+      "summary": "Reusable delivery accelerators and internal dashboards."
+    },
+    {
+      "id": "P10",
+      "name": "Mobile API Modernization",
+      "client": "Crestline Bank",
+      "industry": "financial services",
+      "start": "2026-08-17",
+      "end": "2027-02-12",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Go",
+        "Kubernetes"
+      ],
+      "summary": "Break the mobile banking backend into services on Kubernetes."
+    },
+    {
+      "id": "P11",
+      "name": "FHIR Interoperability",
+      "client": "Granite Health Partners",
+      "industry": "healthcare",
+      "start": "2026-11-02",
+      "end": "2027-05-28",
+      "skills": [
+        "FHIR",
+        "HL7",
+        "Java"
+      ],
+      "summary": "Expose member and claims data through FHIR APIs."
+    },
+    {
+      "id": "P12",
+      "name": "Merchandising Dashboards",
+      "client": "Meridian Grocers",
+      "industry": "retail",
+      "start": "2026-09-08",
+      "end": "2026-12-11",
+      "skills": [
+        "Looker",
+        "BigQuery"
+      ],
+      "summary": "Looker dashboards for category managers."
+    },
+    {
+      "id": "P13",
+      "name": "Azure Synapse Migration",
+      "client": "Lakeshore Mutual",
+      "industry": "insurance",
+      "start": "2026-04-06",
+      "end": "2027-03-26",
+      "skills": [
+        "Azure",
+        "Data Factory",
+        "Synapse",
+        "Power BI"
+      ],
+      "summary": "Move the reporting warehouse to Azure Synapse."
+    }
+  ],
+  "assignments": [
+    {
+      "consultant_id": "C01",
+      "project_id": "P01",
+      "allocation_pct": 100,
+      "start": "2026-06-01",
+      "end": "2027-01-29",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C02",
+      "project_id": "P03",
+      "allocation_pct": 50,
+      "start": "2026-08-03",
+      "end": "2027-03-31",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C03",
+      "project_id": "P12",
+      "allocation_pct": 60,
+      "start": "2026-09-08",
+      "end": "2026-12-11",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C05",
+      "project_id": "P05",
+      "allocation_pct": 100,
+      "start": "2026-07-06",
+      "end": "2026-12-18",
+      "role": "Analytics Engineer"
+    },
+    {
+      "consultant_id": "C06",
+      "project_id": "P05",
+      "allocation_pct": 100,
+      "start": "2026-07-06",
+      "end": "2026-12-18",
+      "role": "Analytics Engineer"
+    },
+    {
+      "consultant_id": "C07",
+      "project_id": "P04",
+      "allocation_pct": 100,
+      "start": "2026-10-05",
+      "end": "2027-04-30",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C08",
+      "project_id": "P07",
+      "allocation_pct": 100,
+      "start": "2026-05-04",
+      "end": "2027-01-15",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C09",
+      "project_id": "P08",
+      "allocation_pct": 100,
+      "start": "2026-03-02",
+      "end": "2026-11-27",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C10",
+      "project_id": "P07",
+      "allocation_pct": 50,
+      "start": "2026-05-04",
+      "end": "2027-01-15",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C12",
+      "project_id": "P02",
+      "allocation_pct": 50,
+      "start": "2026-09-14",
+      "end": "2027-01-29",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C17",
+      "project_id": "P11",
+      "allocation_pct": 100,
+      "start": "2026-11-02",
+      "end": "2027-05-28",
+      "role": "Integration Lead"
+    },
+    {
+      "consultant_id": "C18",
+      "project_id": "P05",
+      "allocation_pct": 100,
+      "start": "2026-07-06",
+      "end": "2026-12-18",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C20",
+      "project_id": "P01",
+      "allocation_pct": 100,
+      "start": "2026-06-01",
+      "end": "2027-04-30",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C21",
+      "project_id": "P12",
+      "allocation_pct": 50,
+      "start": "2026-09-08",
+      "end": "2026-12-11",
+      "role": "Analytics Engineer"
+    },
+    {
+      "consultant_id": "C22",
+      "project_id": "P10",
+      "allocation_pct": 100,
+      "start": "2026-08-17",
+      "end": "2027-02-12",
+      "role": "Platform Engineer"
+    },
+    {
+      "consultant_id": "C25",
+      "project_id": "P06",
+      "allocation_pct": 100,
+      "start": "2026-10-19",
+      "end": "2027-03-12",
+      "role": "AI Engineer"
+    },
+    {
+      "consultant_id": "C27",
+      "project_id": "P02",
+      "allocation_pct": 50,
+      "start": "2026-09-14",
+      "end": "2027-01-29",
+      "role": "ML Engineer"
+    },
+    {
+      "consultant_id": "C28",
+      "project_id": "P02",
+      "allocation_pct": 100,
+      "start": "2026-09-14",
+      "end": "2027-01-29",
+      "role": "AI Advisor"
+    },
+    {
+      "consultant_id": "C29",
+      "project_id": "P11",
+      "allocation_pct": 100,
+      "start": "2026-11-02",
+      "end": "2027-05-28",
+      "role": "Integration Engineer"
+    },
+    {
+      "consultant_id": "C30",
+      "project_id": "P10",
+      "allocation_pct": 100,
+      "start": "2026-08-17",
+      "end": "2027-02-12",
+      "role": "Backend Engineer"
+    },
+    {
+      "consultant_id": "C31",
+      "project_id": "P13",
+      "allocation_pct": 75,
+      "start": "2026-04-06",
+      "end": "2027-03-26",
+      "role": "BI Developer"
+    },
+    {
+      "consultant_id": "C32",
+      "project_id": "P03",
+      "allocation_pct": 50,
+      "start": "2026-08-03",
+      "end": "2027-03-31",
+      "role": "BI Developer"
+    },
+    {
+      "consultant_id": "C34",
+      "project_id": "P08",
+      "allocation_pct": 100,
+      "start": "2026-03-02",
+      "end": "2026-11-27",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C35",
+      "project_id": "P13",
+      "allocation_pct": 100,
+      "start": "2026-04-06",
+      "end": "2027-03-26",
+      "role": "Data Engineering Lead"
+    },
+    {
+      "consultant_id": "C37",
+      "project_id": "P08",
+      "allocation_pct": 100,
+      "start": "2026-03-02",
+      "end": "2026-11-27",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C38",
+      "project_id": "P01",
+      "allocation_pct": 80,
+      "start": "2026-06-01",
+      "end": "2027-04-30",
+      "role": "Delivery Architect"
+    },
+    {
+      "consultant_id": "C39",
+      "project_id": "P09",
+      "allocation_pct": 50,
+      "start": "2026-01-05",
+      "end": "2027-06-30",
+      "role": "Architect"
+    },
+    {
+      "consultant_id": "C41",
+      "project_id": "P09",
+      "allocation_pct": 50,
+      "start": "2026-01-05",
+      "end": "2027-06-30",
+      "role": "BI Developer"
+    },
+    {
+      "consultant_id": "C42",
+      "project_id": "P13",
+      "allocation_pct": 100,
+      "start": "2026-04-06",
+      "end": "2027-03-26",
+      "role": "BI Developer"
+    },
+    {
+      "consultant_id": "C43",
+      "project_id": "P03",
+      "allocation_pct": 100,
+      "start": "2026-08-03",
+      "end": "2027-03-31",
+      "role": "ML Lead"
+    },
+    {
+      "consultant_id": "C47",
+      "project_id": "P08",
+      "allocation_pct": 100,
+      "start": "2026-03-02",
+      "end": "2026-11-27",
+      "role": "Data Engineer"
+    },
+    {
+      "consultant_id": "C52",
+      "project_id": "P10",
+      "allocation_pct": 100,
+      "start": "2026-08-17",
+      "end": "2027-02-12",
+      "role": "Backend Lead"
+    }
+  ],
+  "pto": [
+    {
+      "consultant_id": "C06",
+      "start": "2027-01-04",
+      "end": "2027-01-08"
+    },
+    {
+      "consultant_id": "C09",
+      "start": "2026-12-22",
+      "end": "2027-01-01"
+    },
+    {
+      "consultant_id": "C33",
+      "start": "2026-12-21",
+      "end": "2027-01-01"
+    },
+    {
+      "consultant_id": "C35",
+      "start": "2027-01-18",
+      "end": "2027-03-05"
+    },
+    {
+      "consultant_id": "C37",
+      "start": "2027-01-25",
+      "end": "2027-02-05"
+    },
+    {
+      "consultant_id": "C44",
+      "start": "2026-12-14",
+      "end": "2027-01-08"
+    },
+    {
+      "consultant_id": "C05",
+      "start": "2027-03-22",
+      "end": "2027-03-26"
+    },
+    {
+      "consultant_id": "C54",
+      "start": "2027-02-15",
+      "end": "2027-02-19"
+    },
+    {
+      "consultant_id": "C34",
+      "start": "2027-02-08",
+      "end": "2027-02-12"
+    },
+    {
+      "consultant_id": "C51",
+      "start": "2027-02-22",
+      "end": "2027-02-26"
+    },
+    {
+      "consultant_id": "C40",
+      "start": "2026-12-07",
+      "end": "2026-12-09"
+    },
+    {
+      "consultant_id": "C56",
+      "start": "2026-12-28",
+      "end": "2026-12-31"
+    },
+    {
+      "consultant_id": "C23",
+      "start": "2027-02-01",
+      "end": "2027-02-05"
+    },
+    {
+      "consultant_id": "C13",
+      "start": "2027-03-01",
+      "end": "2027-03-05"
+    },
+    {
+      "consultant_id": "C15",
+      "start": "2026-12-24",
+      "end": "2027-01-01"
+    },
+    {
+      "consultant_id": "C36",
+      "start": "2027-03-15",
+      "end": "2027-03-19"
+    },
+    {
+      "consultant_id": "C55",
+      "start": "2026-12-24",
+      "end": "2026-12-31"
+    },
+    {
+      "consultant_id": "C47",
+      "start": "2026-12-28",
+      "end": "2027-01-01"
+    },
+    {
+      "consultant_id": "C26",
+      "start": "2027-01-18",
+      "end": "2027-01-22"
+    },
+    {
+      "consultant_id": "C45",
+      "start": "2027-02-15",
+      "end": "2027-02-19"
+    }
+  ]
+}
